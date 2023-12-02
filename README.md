@@ -1,4 +1,4 @@
-<h1 align="center">Restaurant</h1>
+<h1 align="center">Inventory</h1>
 
 It is an application for Android devices, with the purpose of managing inventory.
 
