@@ -10,6 +10,7 @@ It is a native app developed in Kotlin, with the following technologies:
 - DI with Koin
 - Jetpack Compose
 - Compose Navigation
+- Barcode Scanner
 - MVVM
 - Clean Architecture
 
